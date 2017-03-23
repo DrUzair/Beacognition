@@ -1,0 +1,2 @@
+# Beacognition
+, Beacognition, for real-time discovery of the associations between a signal space and arbitrarily defined regions, termed as Semantically Meaningful Areas (SMAs), in the corresponding physical space. It lets the end users develop semantically meaningful location systems using standard 802.11 network beacons as they roam through their environment. The key idea is to discover the unique associations using a beacon popularity model. 
