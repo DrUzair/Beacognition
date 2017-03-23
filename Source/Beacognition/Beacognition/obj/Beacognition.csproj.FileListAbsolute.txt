@@ -1,0 +1,8 @@
+D:\uzair\Research\Dev\Beacognition\Beacognition\bin\Debug\Beacognition.exe
+D:\uzair\Research\Dev\Beacognition\Beacognition\bin\Debug\Beacognition.pdb
+D:\uzair\Research\Dev\Beacognition\Beacognition\obj\Debug\ResolveAssemblyReference.cache
+D:\uzair\Research\Dev\Beacognition\Beacognition\obj\Debug\Beacognition.Form1.resources
+D:\uzair\Research\Dev\Beacognition\Beacognition\obj\Debug\Beacognition.Properties.Resources.resources
+D:\uzair\Research\Dev\Beacognition\Beacognition\obj\Debug\Beacognition.csproj.GenerateResource.Cache
+D:\uzair\Research\Dev\Beacognition\Beacognition\obj\Debug\Beacognition.exe
+D:\uzair\Research\Dev\Beacognition\Beacognition\obj\Debug\Beacognition.pdb
